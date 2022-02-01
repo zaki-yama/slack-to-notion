@@ -1,0 +1,9 @@
+{
+  "name": "slack-to-notion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "clasp": "^1.0.0"
+  }
+}
