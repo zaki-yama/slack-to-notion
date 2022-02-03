@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "clasp": "^1.0.0"
+    "@google/clasp": "^2.4.1"
   }
 }
